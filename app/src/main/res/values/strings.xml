@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Nota 10 Net</string>
+    <string name="header_title_home_nota_10">⌂ Painel</string>
+    <string name="header_title_exit_nota_10">Sair</string>
+    <string name="made_by_title">made by mfkl</string>
+</resources>
